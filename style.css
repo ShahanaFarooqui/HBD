@@ -1,0 +1,50 @@
+
+.image{
+    display: inline-block;
+    width: 40%;
+    height: 500px;
+}
+.poem{
+    position: absolute;
+    display: inline-block;
+    width: 55%;
+    height: 500px;
+}
+img{
+    height: 400px;
+}
+h2{
+    color:goldenrod;
+}
+
+h3:nth-child(2){
+    color:blueviolet;
+}
+
+h3:nth-child(3){
+    color:lightcoral;
+}
+
+h3:nth-child(4){
+    color:cornflowerblue;
+}
+
+h3:nth-child(5){
+    color:darkgreen;
+}
+
+h3:nth-child(6){
+    color:maroon;
+}
+
+h3:nth-child(7){
+    color:orangered;
+}
+
+h3:nth-child(8){
+    color:crimson;
+}
+
+h3:nth-child(9){
+    color:darkslategray;
+}
